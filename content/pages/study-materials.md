@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of subtopics that are covered within each
+  lecture.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
